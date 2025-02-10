@@ -27,7 +27,7 @@
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://analogjs.org/img/logos/angular-gradient.png" alt="angular" width="40" height="40"/> </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/ionic_logo_icon_145160.png" alt="ionic" width="40" height="40"/> </a> 
+  <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://mirmit.com/wp-content/uploads/2023/11/ionic-dark-logo-black-1.png" alt="ionic" width="40" height="40"/> </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="nestjs" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
