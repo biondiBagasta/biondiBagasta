@@ -32,10 +32,10 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.3/1752823566757/Microsoft.VisualStudio.Services.Icons.Default" alt="react" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*O6KluMvEBZ1cBL3EPo4tig.png" alt="electron" width="40" height="40"/> </a>  
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg" alt="PRISMA" width="40" height="40"/> </a>
-  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1767809210060877824/mAtEmNk0_400x400.jpg" alt="Drizzle" width="40" height="40"/> </a>
+  <a href="https://orm.drizzle.team/" target="_blank" rel="noreferrer"> <img src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" alt="Drizzle" width="40" height="40"/> </a>
   <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://www.dsebastien.net/content/images/2022/12/rxjs.svg" alt="rxjs" width="40" height="40"/> </a>
   <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/capacitor-js.svg" alt="capacitor" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
