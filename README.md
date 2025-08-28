@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biondibagasta&label=Profile%20views&color=0e75b6&style=flat" alt="biondibagasta" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=biondibagasta)](https://github.com/biondibagasta/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/@bbagasta" target="blank"><img src="https://img.shields.io/twitter/follow/@bbagasta?logo=twitter&style=for-the-badge" alt="@bbagasta" /></a> </p>
 
